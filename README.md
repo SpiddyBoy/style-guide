@@ -3,17 +3,17 @@ This is an opinionated document built with the intention of creating consistent 
 
 # Table of Contents:
 
-### [Linting](https://github.com/SpiddyBoy/style-guide/blob/master/docs/linting.md) - A brief guide on setting up PyLint to reinforce code consistency. 
+ [Linting](https://github.com/SpiddyBoy/style-guide/blob/master/docs/linting.md) - A brief guide on setting up PyLint to reinforce code consistency. 
 
-## [Naming](https://github.com/SpiddyBoy/style-guide/blob/master/docs/linting.md)
+ [Naming](https://github.com/SpiddyBoy/style-guide/blob/master/docs/linting.md)
 
-## [Scripting](https://github.com/SpiddyBoy/style-guide/blob/master/docs/linting.md)
+ [Scripting](https://github.com/SpiddyBoy/style-guide/blob/master/docs/linting.md)
 
-## [Perspective](https://github.com/SpiddyBoy/style-guide/blob/master/docs/linting.md)
+ [Perspective](https://github.com/SpiddyBoy/style-guide/blob/master/docs/linting.md)
 
-## [Architecture Visualization](https://github.com/SpiddyBoy/style-guide/blob/master/docs/linting.md)
+ [Architecture Visualization](https://github.com/SpiddyBoy/style-guide/blob/master/docs/linting.md)
 
-## [Markdown Syntax](https://github.com/SpiddyBoy/style-guide/blob/master/docs/linting.md)
+ [Markdown Syntax](https://github.com/SpiddyBoy/style-guide/blob/master/docs/linting.md)
 
 # Naming
 Function names, variable names, and filenames should be descriptive; eschew abbreviation. In particular, do not use abbreviations that are ambiguous or unfamiliar to readers outside your project, and do not abbreviate by deleting letters within a word. All Pythonic naming is derived from [Guido](https://en.wikipedia.org/wiki/Guido_van_Rossum)'s recommendations.
