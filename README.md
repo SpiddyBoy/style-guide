@@ -1,7 +1,7 @@
 # Overview
 This is an opinionated document built with the intention of creating consistent and easy to manage Ignition projects.
 
-[Linting]((https://github.com/SpiddyBoy/style-guide/master/docs/linting.md)
+[Linting](https://github.com/SpiddyBoy/style-guide/master/docs/linting.md)
 
 
 # Naming
