@@ -3,7 +3,7 @@ This is an opinionated document built with the intention of creating consistent 
 
 # Table of Contents:
 
-### [Linting](https://github.com/SpiddyBoy/style-guide/blob/master/docs/linting.md) - An overview on Pylint, including how to set it up, best practices, and the DG Standard.
+### [Linting](https://github.com/SpiddyBoy/style-guide/blob/master/docs/linting.md) - A brief guide on setting up PyLint to reinforce code consistency. 
 
 ## [Naming](https://github.com/SpiddyBoy/style-guide/blob/master/docs/linting.md)
 
